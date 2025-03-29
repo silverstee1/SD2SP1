@@ -22,6 +22,7 @@ Make sure to order the PCB from a fab such as JLCPCB with a 1.2mm thickness and 
 # BOM
 
 | Designator | Description | DigiKey Part # | LCSC Part # |
+| --- | --- | --- | --- |
 | C1 | 0402 22u Capactior (10V Min) | 490-GRM158R61A226ME15DCT-ND | C3845593 |
 | J1 | MicroSD Slot | 2223-MSD-4-ACT-ND | C113206 |
 | PCB | Order From Fab ex. JLCPCB 1.2mm thickness ENIG |||
