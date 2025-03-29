@@ -3,7 +3,7 @@ MicroSD adapter PCB for SP1 on Nintendo GameCube
 
 Due to the way the SP1 port is handled on the gamecube the speeds of the adapter are limited to v1.0 speeds like the original adapters for other ports, ex. WiiSD, GC2SD, SD2SP2 which didn't have added OR gate component to achieve the higher v2.0 speeds.
 
-Make Sure to use the latest version of Swiss in order to use this adapter in SP1 Slot on the bottom of the gamecube, the pcb is marked which orientation it is to be inserted and can be covered with SP1 Port cover once installed.
+Make sure to use the latest version of Swiss in order to use this adapter in SP1 Slot on the bottom of the gamecube, the pcb is marked which orientation it is to be inserted and can be covered with SP1 Port cover once installed.
 
 https://github.com/emukidid/swiss-gc
 
